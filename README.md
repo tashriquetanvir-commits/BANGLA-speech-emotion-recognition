@@ -48,7 +48,7 @@ explores K-Means and agglomerative clustering.
   or other model artifact. Historical results have not been rerun here.
 - The demo is **not** a clinical or personal emotion diagnosis tool.
 
-## Project source and team credit
+## Research materials
 
 Original collaborative university project:
 **[waysal1/Speech-Emotion-Recognition](https://github.com/waysal1/Speech-Emotion-Recognition)**.
@@ -57,9 +57,6 @@ Original collaborative university project:
 - [Original team PDF report](https://github.com/waysal1/Speech-Emotion-Recognition/blob/main/CSE424%20Project%20Report.pdf)
 - [Dataset preparation notes](notebooks/README.md)
 - [New local audio-feature quickstart notebook](notebooks/audio_feature_quickstart.ipynb) (does not replace the original research notebook)
-
-The original authors and team contributors retain credit. This repository is maintained by `tashriquetanvir-commits`. The portfolio
-demo and its supporting files come from [Faraaz’s portfolio repository](https://github.com/faraaz1027-cloud/Speech-Emotion-Recognition).
 
 **Dataset citations:** [BanglaMood (CC BY 4.0)](https://data.mendeley.com/datasets/9cc8k5v7w4)
 and [KUET Bangla Emotional Speech / KBES (CC BY 4.0)](https://data.mendeley.com/datasets/vsn37ps3rx).
