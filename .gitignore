@@ -1,0 +1,14 @@
+# Do not commit datasets, speech recordings, caches, generated models or env files.
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+data/
+*.wav
+*.mp3
+*.flac
+*.ogg
+models/*.joblib
+models/*.metrics.json
